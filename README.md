@@ -24,7 +24,10 @@ You'll need Node.js and PostgreSQL installed on your machine.
 
 ### Setup
 
-
+1.  Clone the project repository.
+    ```bash
+    git clone (https://github.com/VedantKhedkar/assessment_eventapi.git)
+    ```
 
 2.  Install the dependencies.
     ```bash
